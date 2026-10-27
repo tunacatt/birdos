@@ -1,0 +1,13 @@
+build/mnt
+build/objs
+build/output
+build/birdos.bin
+build/backup
+.vscode
+.git
+random_file_not_for_you.txt
+src/kernel/cpu/gdt.asm
+.clangd
+auto.sh
+make_update.ts
+build/HOWTO.txt
